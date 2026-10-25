@@ -18,6 +18,6 @@ Bootloader Unlock
 
 ADB Steps
 - From here, make sure your platform-tools are working. Do Shift + Right-click and select Open with Microsoft PowerShell
-- Now do 
-  '\adb start-server' 
+- From here, run this command.    \adb start-server
+
   
