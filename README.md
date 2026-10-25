@@ -4,7 +4,7 @@ GSI guide for Moto G Play 2024
 Hello! This is a guide mainly for the Moto G Play series phones. Specifically for GSIs for them.
 
 Prerequisites & Tools
-Why GSIs? The main reason I'm using a GSI on this specific device is due to the 
+Why GSIs? The main reason I'm using a GSI on this specific device is due to the lack of support these budget devices have. Putting a GSI is a perfect way to making it run much smoother and cleaner.
 - Hardware: Moto G Play (2024) reliable USB-C cable and a PC that can run Android ADB Platform-Tools.
 - Android Platform-Tools: You will need the latest platform-tools; you can find it at https://developer.android.com/tools/releases/platform-tools
 - Motorola USB Drivers: You can also find these at https://en-us.support.motorola.com/app/usb-drivers
@@ -18,8 +18,8 @@ Bootloader Unlock
 
 ADB Steps
 - From here, make sure your platform-tools are working. Do Shift + Right-click and select Open with Microsoft PowerShell
-- Now do ```bash
-adb start-server
-```
-- 
+- Now do 
+'''bash 
+- \adb start-server
+  '''
   
