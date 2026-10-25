@@ -18,8 +18,6 @@ Why GSIs? The main reason I'm using a GSI on this specific device is due to the 
 
 ADB Steps
 - From here, make sure your platform-tools are working. Do Shift + Right-click and select Open with Microsoft PowerShell
-- Now, run this command.
-
-**\adb start-server**
+- Now, run this command. **\adb start-server**
 
   
